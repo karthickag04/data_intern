@@ -1,0 +1,11 @@
+datasources list chat ref
+https://chatgpt.com/share/6900521a-b188-800b-8730-03ae8d3f64d2
+
+sample data exploration with kaggle dataset
+kaggle dataset link
+https://www.kaggle.com/datasets/mikhail1681/walmart-sales
+chat ref to that kaggle dataset exploration
+https://chatgpt.com/share/69005240-872c-800b-a8f0-8db9f8c477dc
+
+chat conversation on descriptive analysis under excel and powerbi sample
+https://chatgpt.com/share/690051c0-47bc-800b-9f1f-ab45c45e174f
