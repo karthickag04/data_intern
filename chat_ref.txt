@@ -13,3 +13,7 @@ https://chatgpt.com/share/690051c0-47bc-800b-9f1f-ab45c45e174f
 
 chat ref added for creating new measures and calculated column for the given above kaggle dataset "Walmart-sales"
 https://chatgpt.com/share/69019ff9-0ac0-800b-a6e2-5b641993525f
+
+
+chat ref for matplotlib 
+https://chatgpt.com/share/690ae1f9-5ddc-800b-98ab-af00cead8246
